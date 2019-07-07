@@ -7,6 +7,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ## Esto es un SUBTITULO
-1. hOLA
+1. HOLA
 2. JEJE
 * SALUDOS
